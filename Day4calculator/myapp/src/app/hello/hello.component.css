@@ -1,0 +1,16 @@
+.btn
+{
+        background-color: #c3e2f7; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 25px;
+}
+
+.input
+{
+    box-shadow: rgb(0, 132, 255);
+}

@@ -1,0 +1,58 @@
+<div>
+    <div class="row">
+        <div class="col-md-4">
+            <input type="number" [style.width.px]="width" [style.height.px]="height" class="form-control" [(ngModel)]="inputField1"/>
+        </div>
+        <div class="col-md-1">
+            <h3>{{operator}}</h3>
+        </div>
+        <div class="col-md-4">
+            <input type="number" class="form-control" [style.width.px]="width" [style.height.px]="height" [(ngModel)]="inputField2"/>
+        </div>
+        <div class="col-md-1">
+            <h3>=</h3>
+        </div>
+        <div class="col-md-2">
+            <h2>{{result}}</h2>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <hr>
+        <div class="col-md-4">
+            <button class="btn btn-warning form-control" [style.width.px]="width" [style.height.px]="height" (click)='operator="+"; add()'>+</button>
+        </div>
+        <div class="col-md-4">
+            <button class="btn form-control btn-warning" [style.width.px]="width" [style.height.px]="height" (click)='operator="-"; sub()'>-</button>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <hr>
+        <div class="col-md-4">
+            <button class="btn form-control btn-warning" [style.width.px]="width" [style.height.px]="height" (click)='operator="%"; mod()'>%</button>
+        </div>
+        <div class="col-md-4">
+            <button class="btn form-control btn-warning" [style.width.px]="width" [style.height.px]="height" (click)='operator="/"; div()'>/</button>
+        </div>
+        <div class="col-md-4">
+            <input type="number" class="form-control " [style.width.px]="width" [style.height.px]="height" [(ngModel)]="width" placeholder="Enter Width"/>
+        </div>
+
+    </div>
+    <br>
+    <div class="row">
+        <hr>
+        <div class="col-md-4">
+            <button class="btn form-control btn-warning" [style.width.px]="width" [style.height.px]="height" (click)='operator="*"; mul()'>*</button>
+        </div>
+        
+        <div class="col-md-4">
+            <button class="btn form-control btn-warning" [style.width.px]="width" [style.height.px]="height" (click)='clr()'>Clr</button>
+        </div>
+        
+        <div class="col-md-4">
+            <input type="number" class="form-control" [style.width.px]="width" [style.height.px]="height" [(ngModel)]="height" placeholder="Enter Height"/>
+        </div>
+    </div>
+</div>
