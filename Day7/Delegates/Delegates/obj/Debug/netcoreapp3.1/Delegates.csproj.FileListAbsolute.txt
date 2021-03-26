@@ -1,0 +1,13 @@
+C:\training\Day7\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\training\Day7\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\training\Day7\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\training\Day7\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\training\Day7\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\training\Day7\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\training\Day7\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\training\Day7\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\training\Day7\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\training\Day7\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\training\Day7\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\training\Day7\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\training\Day7\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache

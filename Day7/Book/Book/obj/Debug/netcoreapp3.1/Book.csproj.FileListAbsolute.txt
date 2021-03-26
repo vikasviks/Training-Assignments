@@ -1,0 +1,13 @@
+C:\training\Day7\Book\Book\obj\Debug\netcoreapp3.1\Book.csprojAssemblyReference.cache
+C:\training\Day7\Book\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+C:\training\Day7\Book\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+C:\training\Day7\Book\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+C:\training\Day7\Book\Book\bin\Debug\netcoreapp3.1\Book.exe
+C:\training\Day7\Book\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+C:\training\Day7\Book\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+C:\training\Day7\Book\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+C:\training\Day7\Book\Book\bin\Debug\netcoreapp3.1\Book.dll
+C:\training\Day7\Book\Book\bin\Debug\netcoreapp3.1\Book.pdb
+C:\training\Day7\Book\Book\obj\Debug\netcoreapp3.1\Book.dll
+C:\training\Day7\Book\Book\obj\Debug\netcoreapp3.1\Book.pdb
+C:\training\Day7\Book\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache

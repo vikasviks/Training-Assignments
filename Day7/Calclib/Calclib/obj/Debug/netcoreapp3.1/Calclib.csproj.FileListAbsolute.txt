@@ -1,0 +1,13 @@
+C:\training\Day7\Calclib\Calclib\bin\Debug\netcoreapp3.1\Calclib.exe
+C:\training\Day7\Calclib\Calclib\bin\Debug\netcoreapp3.1\Calclib.deps.json
+C:\training\Day7\Calclib\Calclib\bin\Debug\netcoreapp3.1\Calclib.runtimeconfig.json
+C:\training\Day7\Calclib\Calclib\bin\Debug\netcoreapp3.1\Calclib.runtimeconfig.dev.json
+C:\training\Day7\Calclib\Calclib\bin\Debug\netcoreapp3.1\Calclib.dll
+C:\training\Day7\Calclib\Calclib\bin\Debug\netcoreapp3.1\Calclib.pdb
+C:\training\Day7\Calclib\Calclib\obj\Debug\netcoreapp3.1\Calclib.csprojAssemblyReference.cache
+C:\training\Day7\Calclib\Calclib\obj\Debug\netcoreapp3.1\Calclib.AssemblyInfoInputs.cache
+C:\training\Day7\Calclib\Calclib\obj\Debug\netcoreapp3.1\Calclib.AssemblyInfo.cs
+C:\training\Day7\Calclib\Calclib\obj\Debug\netcoreapp3.1\Calclib.csproj.CoreCompileInputs.cache
+C:\training\Day7\Calclib\Calclib\obj\Debug\netcoreapp3.1\Calclib.dll
+C:\training\Day7\Calclib\Calclib\obj\Debug\netcoreapp3.1\Calclib.pdb
+C:\training\Day7\Calclib\Calclib\obj\Debug\netcoreapp3.1\Calclib.genruntimeconfig.cache
